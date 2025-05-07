@@ -191,15 +191,31 @@ nav {
 .hero p {
     font-size: 1.2rem;
     max-width: 700px;
-    margin: 0 auto 2rem;
+    margin: 0 auto 1.5rem;
     color: rgba(255, 255, 255, 0.8);
+}
+
+.social-badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.social-badges a {
+    transition: transform 0.3s ease;
+}
+
+.social-badges a:hover {
+    transform: translateY(-3px);
 }
 
 .cta-buttons {
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 /* About Section */
@@ -221,13 +237,45 @@ nav {
     font-size: 1.5rem;
 }
 
-.about-text ul {
-    list-style-type: disc;
-    padding-left: 1.5rem;
+.highlight-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 2rem;
 }
 
-.about-text li {
-    margin-bottom: 0.8rem;
+.highlight-list li {
+    display: flex;
+    margin-bottom: 1.5rem;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.highlight-icon {
+    background-color: var(--primary-color);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.highlight-icon i {
+    font-size: 1.2rem;
+}
+
+.highlight-content h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+    color: var(--secondary-color);
+}
+
+.highlight-content p {
+    margin: 0;
+    color: var(--text-light);
 }
 
 .profile-placeholder {
@@ -325,6 +373,19 @@ nav {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
 }
 
+.company-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.company-logo {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
 .timeline-content h3 {
     font-size: 1.5rem;
     margin-bottom: 0.3rem;
@@ -333,7 +394,7 @@ nav {
 .timeline-content h4 {
     color: var(--primary-color);
     font-size: 1.2rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0;
 }
 
 .experience-block {
@@ -352,7 +413,22 @@ nav {
 }
 
 .experience-block li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.8rem;
+}
+
+.tech-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.badge {
+    transition: transform 0.3s ease;
+}
+
+.badge:hover {
+    transform: translateY(-3px);
 }
 
 /* Skills Section */
@@ -617,6 +693,21 @@ footer {
     
     .tech-icons {
         grid-template-columns: 1fr;
+    }
+    
+    .social-badges {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .company-header {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .company-logo {
+        margin-bottom: 1rem;
     }
 }
 
