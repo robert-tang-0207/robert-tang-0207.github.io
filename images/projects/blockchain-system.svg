@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="400px" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Blockchain System Project</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="blockchainGradient">
+            <stop stop-color="#0f172a" offset="0%"></stop>
+            <stop stop-color="#1e293b" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="url(#blockchainGradient)" x="0" y="0" width="600" height="400" rx="10"></rect>
+        
+        <!-- Blockchain visualization -->
+        <!-- Block 1 -->
+        <rect fill="#3b82f6" opacity="0.9" x="100" y="150" width="80" height="100" rx="5"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="110" y="160" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="110" y="185" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="110" y="210" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="110" y="235" width="60" height="5" rx="2"></rect>
+        
+        <!-- Connection 1 -->
+        <line x1="180" y1="200" x2="220" y2="200" stroke="#3b82f6" stroke-width="3"></line>
+        <polygon fill="#3b82f6" points="220,200 210,195 210,205"></polygon>
+        
+        <!-- Block 2 -->
+        <rect fill="#3b82f6" opacity="0.9" x="220" y="150" width="80" height="100" rx="5"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="230" y="160" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="230" y="185" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="230" y="210" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="230" y="235" width="60" height="5" rx="2"></rect>
+        
+        <!-- Connection 2 -->
+        <line x1="300" y1="200" x2="340" y2="200" stroke="#3b82f6" stroke-width="3"></line>
+        <polygon fill="#3b82f6" points="340,200 330,195 330,205"></polygon>
+        
+        <!-- Block 3 -->
+        <rect fill="#3b82f6" opacity="0.9" x="340" y="150" width="80" height="100" rx="5"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="350" y="160" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="350" y="185" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="350" y="210" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="350" y="235" width="60" height="5" rx="2"></rect>
+        
+        <!-- Connection 3 -->
+        <line x1="420" y1="200" x2="460" y2="200" stroke="#3b82f6" stroke-width="3"></line>
+        <polygon fill="#3b82f6" points="460,200 450,195 450,205"></polygon>
+        
+        <!-- Block 4 -->
+        <rect fill="#3b82f6" opacity="0.9" x="460" y="150" width="80" height="100" rx="5"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="470" y="160" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="470" y="185" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="470" y="210" width="60" height="15" rx="2"></rect>
+        <rect fill="#FFFFFF" opacity="0.2" x="470" y="235" width="60" height="5" rx="2"></rect>
+        
+        <!-- Nodes -->
+        <circle fill="#10b981" opacity="0.9" cx="140" cy="100" r="20"></circle>
+        <circle fill="#10b981" opacity="0.9" cx="260" cy="80" r="20"></circle>
+        <circle fill="#10b981" opacity="0.9" cx="380" cy="100" r="20"></circle>
+        <circle fill="#10b981" opacity="0.9" cx="500" cy="80" r="20"></circle>
+        
+        <!-- Node connections -->
+        <line x1="140" y1="100" x2="260" y2="80" stroke="#10b981" stroke-width="2" opacity="0.5"></line>
+        <line x1="260" y1="80" x2="380" y2="100" stroke="#10b981" stroke-width="2" opacity="0.5"></line>
+        <line x1="380" y1="100" x2="500" y2="80" stroke="#10b981" stroke-width="2" opacity="0.5"></line>
+        <line x1="140" y1="100" x2="380" y2="100" stroke="#10b981" stroke-width="2" opacity="0.5"></line>
+        <line x1="260" y1="80" x2="500" y2="80" stroke="#10b981" stroke-width="2" opacity="0.5"></line>
+        
+        <!-- Node to block connections -->
+        <line x1="140" y1="120" x2="140" y2="150" stroke="#FFFFFF" stroke-width="2" opacity="0.3"></line>
+        <line x1="260" y1="100" x2="260" y2="150" stroke="#FFFFFF" stroke-width="2" opacity="0.3"></line>
+        <line x1="380" y1="120" x2="380" y2="150" stroke="#FFFFFF" stroke-width="2" opacity="0.3"></line>
+        <line x1="500" y1="100" x2="500" y2="150" stroke="#FFFFFF" stroke-width="2" opacity="0.3"></line>
+    </g>
+</svg>

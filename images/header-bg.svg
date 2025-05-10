@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Header Background</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="headerGradient">
+            <stop stop-color="#0f172a" offset="0%"></stop>
+            <stop stop-color="#1e293b" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="glow">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="url(#headerGradient)" x="0" y="0" width="1920" height="1080"></rect>
+        
+        <!-- Abstract tech pattern -->
+        <circle fill="#2563eb" opacity="0.1" cx="400" cy="300" r="250" filter="url(#glow)"></circle>
+        <circle fill="#3b82f6" opacity="0.1" cx="1600" cy="800" r="300" filter="url(#glow)"></circle>
+        
+        <!-- Grid lines -->
+        <line x1="0" y1="200" x2="1920" y2="200" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="0" y1="400" x2="1920" y2="400" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="0" y1="600" x2="1920" y2="600" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="0" y1="800" x2="1920" y2="800" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="0" y1="1000" x2="1920" y2="1000" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        
+        <line x1="200" y1="0" x2="200" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="400" y1="0" x2="400" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="600" y1="0" x2="600" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="800" y1="0" x2="800" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="1000" y1="0" x2="1000" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="1200" y1="0" x2="1200" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="1400" y1="0" x2="1400" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="1600" y1="0" x2="1600" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        <line x1="1800" y1="0" x2="1800" y2="1080" stroke="#FFFFFF" stroke-width="1" opacity="0.03"></line>
+        
+        <!-- Particles -->
+        <circle fill="#FFFFFF" opacity="0.5" cx="300" cy="200" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="600" cy="300" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="900" cy="150" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1200" cy="250" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1500" cy="350" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1800" cy="200" r="2"></circle>
+        
+        <circle fill="#FFFFFF" opacity="0.5" cx="200" cy="500" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="500" cy="600" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="800" cy="450" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1100" cy="550" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1400" cy="650" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1700" cy="500" r="2"></circle>
+        
+        <circle fill="#FFFFFF" opacity="0.5" cx="300" cy="800" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="600" cy="900" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="900" cy="750" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1200" cy="850" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1500" cy="950" r="2"></circle>
+        <circle fill="#FFFFFF" opacity="0.5" cx="1800" cy="800" r="2"></circle>
+    </g>
+</svg>

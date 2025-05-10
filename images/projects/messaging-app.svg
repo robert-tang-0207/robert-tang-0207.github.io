@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="400px" viewBox="0 0 600 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Messaging App Project</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="messagingGradient">
+            <stop stop-color="#3b82f6" offset="0%"></stop>
+            <stop stop-color="#1e40af" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="url(#messagingGradient)" x="0" y="0" width="600" height="400" rx="10"></rect>
+        <!-- App interface -->
+        <rect fill="#FFFFFF" opacity="0.9" x="150" y="50" width="300" height="300" rx="10"></rect>
+        <!-- Header -->
+        <rect fill="#2563eb" x="150" y="50" width="300" height="50" rx="10 10 0 0"></rect>
+        <circle fill="#FFFFFF" cx="180" cy="75" r="15"></circle>
+        <rect fill="#FFFFFF" opacity="0.7" x="210" y="65" width="120" height="20" rx="5"></rect>
+        <!-- Message bubbles -->
+        <rect fill="#e2e8f0" x="170" y="120" width="200" height="40" rx="10"></rect>
+        <rect fill="#2563eb" x="230" y="170" width="200" height="40" rx="10"></rect>
+        <rect fill="#e2e8f0" x="170" y="220" width="200" height="40" rx="10"></rect>
+        <rect fill="#2563eb" x="230" y="270" width="200" height="40" rx="10"></rect>
+        <!-- Input field -->
+        <rect fill="#f8fafc" x="170" y="330" width="240" height="40" rx="20"></rect>
+        <circle fill="#2563eb" cx="430" cy="350" r="15"></circle>
+    </g>
+</svg>

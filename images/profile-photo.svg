@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Professional Profile Photo</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="profileGradient">
+            <stop stop-color="#2563eb" offset="0%"></stop>
+            <stop stop-color="#0f172a" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="url(#profileGradient)" cx="200" cy="200" r="200"></circle>
+        <g transform="translate(100, 80)">
+            <!-- Professional silhouette -->
+            <path d="M100,60 C135.346,60 164,88.654 164,124 C164,159.346 135.346,188 100,188 C64.654,188 36,159.346 36,124 C36,88.654 64.654,60 100,60" fill="#FFFFFF" opacity="0.9"></path>
+            <path d="M180,240 C180,240 180,220 180,200 C180,180 140,160 100,160 C60,160 20,180 20,200 C20,220 20,240 20,240 L180,240 Z" fill="#FFFFFF" opacity="0.8"></path>
+            <!-- Suit detail -->
+            <path d="M90,188 L110,188 L110,240 L90,240 Z" fill="#0f172a"></path>
+            <path d="M85,188 C85,188 70,195 70,210 L70,240 L90,240 L90,188 Z" fill="#0f172a"></path>
+            <path d="M115,188 C115,188 130,195 130,210 L130,240 L110,240 L110,188 Z" fill="#0f172a"></path>
+        </g>
+    </g>
+</svg>

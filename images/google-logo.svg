@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Google Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(25, 50)">
+        <path d="M39.7,24.8 L39.7,35.7 L49.5,35.7 C47.6,39.5 43.5,42 39.7,42 C33.9,42 29.2,37.3 29.2,31.5 C29.2,25.7 33.9,21 39.7,21 C42.2,21 44.5,21.9 46.3,23.4 L54.4,15.3 C50.4,11.7 45.3,9.5 39.7,9.5 C27.5,9.5 17.7,19.3 17.7,31.5 C17.7,43.7 27.5,53.5 39.7,53.5 C51.9,53.5 61.7,43.7 61.7,31.5 C61.7,29.2 61.4,27 60.9,24.8 L39.7,24.8 Z" fill="#4285F4"></path>
+        <path d="M0,15.8 L0,25.2 L11.3,25.2 L11.3,36.5 L20.7,36.5 L20.7,25.2 L32,25.2 L32,15.8 L20.7,15.8 L20.7,4.5 L11.3,4.5 L11.3,15.8 L0,15.8 Z" fill="#EA4335" transform="translate(70, 20)"></path>
+    </g>
+</svg>
