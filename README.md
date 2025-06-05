@@ -3,7 +3,7 @@
 # 👨‍💻 Robert Tang
 
 [![Email](https://img.shields.io/badge/Email-robert.tang.dev%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:robert.tang.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/roberttang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/robert-tang-15b0b334a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/robert-tang-0207)
 [![Location](https://img.shields.io/badge/Location-Houston,%20TX-orange?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Houston,+TX)
 
@@ -92,7 +92,7 @@
 
 I'm always open to discussing tech, innovative projects, or potential collaborations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/roberttang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robert-tang-15b0b334a)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:robert.tang.dev@gmail.com)
 
 </div>
