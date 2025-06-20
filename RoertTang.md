@@ -48,7 +48,7 @@ Jun 2013 - May 2019
 :   Software Engineer; **Slack Technologies**
 
 - **Core Messaging Platform**
-    - Founding engineer who built and launched **Slack 1.0** in 2013.
+    - Early engineer who built and launched **Slack 1.0** in 2013.
     - Designed scalable data layer using **MySQL** and **Redis** handling **1M+ concurrent connections**.
     - Built real-time messaging infrastructure with **Kafka** achieving **zero message loss** at scale while mentoring junior engineers.
     - Implemented core platform using **Node.js**, **React**, and **Ruby on Rails** with **WebSockets** for real-time communication.

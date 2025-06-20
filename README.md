@@ -13,7 +13,7 @@
 
 ## ✨ What I Bring to the Table
 
-- **Unicorn Builder**: Founding engineer at Slack (IPO) and early team member at Binance (world's largest crypto exchange)
+- **Unicorn Builder**: Early engineer at Slack (IPO) and early team member at Binance (world's largest crypto exchange)
 - **Scale Expert**: Architected systems handling **$10B+ daily volume** with 99.99% uptime across global infrastructure
 - **Enterprise Solutions**: Delivered mission-critical products for **Fortune 100** companies, driving significant revenue growth
 - **Security Champion**: Implemented cryptographic systems protecting **$50B+ in digital assets** with zero security breaches
@@ -39,7 +39,7 @@
 - Created threshold signature scheme that reduced hot wallet risk by **87%** while improving transaction throughput
 - Developed Solidity-based DeFi protocols with formal verification, achieving **zero exploits** despite $2B+ TVL
 
-### Founding Engineer @ Slack | 2013-2019
+### Software Engineer @ Slack | 2013-2019
 
 <img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg">
 
