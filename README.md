@@ -20,7 +20,7 @@
 
 ## 💻 Engineering Journey
 
-### Technical Lead @ Binance | 2019-2025
+### Technical Lead @ Binance | 2019-2026
 
 <img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Binance_logo.svg">
 
